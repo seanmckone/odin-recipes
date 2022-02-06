@@ -1,2 +1,2 @@
 # odin-recipes
-Recipe website for Odin Project
+A simple html-only recipe website for The Odin Project. Creating this website allowed me to develop my skills with basic html.
